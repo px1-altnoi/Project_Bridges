@@ -114,9 +114,3 @@ class arcMainUI(QtWidgets.QDialog):
         tgt_path = self.path_le.text()
         tgt_cam = self.camera_combobox.currentText()
         self.lib.save_main(tgt_cam, tgt_path)
-
-
-# debug code
-if __name__ == "__main__":
-    ui = arcMainUI()
-    ui.show()
