@@ -1,5 +1,5 @@
 # Maya側使い方
-　AltArcフォルダーをダウンロードして”~/documents/maya/2020/scripts”に置きます。
+　AltArcをフォルダーごとダウンロードして”~/documents/maya/2020/scripts”に置きます。
 スクリプトエディタに
 ```python:shelf.py
 import AltArc.arcUI
